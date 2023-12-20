@@ -1,5 +1,5 @@
 
-# HTML Script and CSS Extractor
+# Script and CSS Extractor
 
 This Python script extracts all JavaScript and CSS links from an HTML file and outputs them in Markdown format. It categorizes the links into those found in the `<head>` and `<body>` tags.
 
